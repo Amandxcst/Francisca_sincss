@@ -1,2 +1,40 @@
-# Francisca_sincss
-Curriculum sin Css
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Francisca Pérez</title>
+</head>
+<body>
+<div id="Principal">
+        <img src="img/fotito.jpeg" id="mifoto" width="130px" height="190" align="left">
+        <h2>Francisca Amanda Pérez Castro</h2>
+
+         <br><br><br><br><br><br><br><br>
+         
+    <fieldset>
+        <legend>Contacto</legend>
+        <ul>
+            <li>Email: fperez.castr@gmail.com</li>
+            <li>Celular: +56949794435</li>
+            <li>Dirección: Calle doce A #1095, Peñalolén</li>
+            <li>Linkedin: <a href="https://www.linkedin.com/in/francisca-p%C3%A9rez-castro-730b45251/">Linkedin Francisca Pérez</a></li>
+        </ul>
+    </fieldset>
+    <fieldset>
+        <legend>Sobre mi</legend>
+        <ul>
+            <LI>Estudiante de Ingeneria informática.</LI>
+            <LI>Me considero una persona responsable y ordenada.</LI>
+            <LI>Me destaco por mi desempeño relacionado al trabajo en equipo, proactividad, detallista y prudente.</LI>
+        </ul>
+    </fieldset>
+    <fieldset>
+        <legend>Experiencia laboral</legend>
+        <ul>
+            <li>EULEN SEGURIDAD:
+                Guardia al interior de la instalacion adidas lo boza.</li>
+            <li>FRUTERÍA LA MIREYITA: Ventas de Alimentos, atención al cliente, Apertura y cierre de Caja.</li> 
+            <li>CALL CENTER OUTBOUND: Venta de Servicio móvil.</li>
+        </ul>
